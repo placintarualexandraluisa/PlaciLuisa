@@ -1,0 +1,4 @@
+myproject\com\servlet\SpringBootWebApplication.class
+myproject\com\model\DatabaseConnection.class
+myproject\com\model\Database.class
+myproject\com\web\DatabaseConnectionController.class
